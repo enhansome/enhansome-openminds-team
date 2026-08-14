@@ -19,7 +19,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 207964
+            "stars": 207999
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-07-07T17:42:10Z",
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83042
+            "stars": 83043
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2023-05-04T12:49:34Z",
             "owner": "prakhar1989",
             "repo": "awesome-courses",
-            "stars": 70393
+            "stars": 70417
           }
         },
         {
@@ -128,7 +128,7 @@
                 "last_commit": "2024-08-04T16:08:40Z",
                 "owner": "lydiahallie",
                 "repo": "javascript-questions",
-                "stars": 65316
+                "stars": 65319
               }
             }
           ]
@@ -149,7 +149,7 @@
                 "last_commit": "2026-07-26T02:43:08Z",
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196464
+                "stars": 196477
               }
             }
           ]
@@ -170,7 +170,7 @@
                 "last_commit": "2026-03-20T01:52:19Z",
                 "owner": "donnemartin",
                 "repo": "system-design-primer",
-                "stars": 363643
+                "stars": 363781
               }
             }
           ]
@@ -188,7 +188,7 @@
               "repo_info": {
                 "archived": false,
                 "language": null,
-                "last_commit": "2026-08-13T21:09:36Z",
+                "last_commit": "2026-08-14T19:53:22Z",
                 "owner": "timburgan",
                 "repo": "timburgan",
                 "stars": 1167
@@ -212,7 +212,7 @@
                 "last_commit": "2025-06-11T17:09:07Z",
                 "owner": "ForrestKnight",
                 "repo": "open-source-cs",
-                "stars": 23698
+                "stars": 23696
               }
             }
           ]
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-10T14:39:24Z",
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 29813
+                "stars": 29817
               }
             }
           ]
@@ -248,7 +248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T21:28:34.979Z",
+    "last_updated": "2026-08-14T21:02:17.059Z",
     "original_repository": "open-minds/awesome-openminds-team",
     "original_repository_sha": "448f243b414cbef34a6567b4a1487449163955fb",
     "enhanced_repository": "enhansome/enhansome-openminds-team",
