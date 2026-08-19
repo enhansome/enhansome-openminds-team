@@ -1,255 +1,266 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Chosen Websites"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Path to self-taught education in computer science",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-07-14T05:38:25Z",
-            "owner": "ossu",
-            "repo": "computer-science",
-            "stars": 208140
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CS Video Courses",
-          "description": "List of Computer Science courses with video lectures",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-07T17:42:10Z",
-            "owner": "Developer-Y",
-            "repo": "cs-video-courses",
-            "stars": 83100
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome CS courses",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-05-04T12:49:34Z",
-            "owner": "prakhar1989",
-            "repo": "awesome-courses",
-            "stars": 70502
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Math, sciences, physics video courses",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-17T13:08:00Z",
-            "owner": "Developer-Y",
-            "repo": "math-science-video-lectures",
-            "stars": 4131
-          }
-        }
-      ],
-      "title": "Studies"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Game design",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "AwesomeJetLight",
+              "title": "Path to self-taught education in computer science",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 19415064,
                 "language": "HTML",
-                "last_commit": "2022-08-30T09:18:26Z",
-                "owner": "JetLightStudio",
-                "repo": "AwesomeJetLight",
-                "stars": 11
+                "last_commit": "2026-07-14T05:38:25Z",
+                "owner": "ossu",
+                "repo": "computer-science",
+                "stars": 208160
               }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Curriculum Vitae Template",
-          "description": null,
-          "children": [
+            },
             {
               "node_type": "item",
-              "title": "CV Template with Latex",
+              "title": "CS Video Courses",
+              "description": "List of Computer Science courses with video lectures",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71583602,
+                "language": null,
+                "last_commit": "2026-07-07T17:42:10Z",
+                "owner": "Developer-Y",
+                "repo": "cs-video-courses",
+                "stars": 83123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome CS courses",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "TeX",
-                "last_commit": "2018-06-23T08:34:12Z",
-                "owner": "saidziani",
-                "repo": "CV-Template",
-                "stars": 10
+                "id": 26689598,
+                "language": null,
+                "last_commit": "2023-05-04T12:49:34Z",
+                "owner": "prakhar1989",
+                "repo": "awesome-courses",
+                "stars": 70520
               }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "A long list of (advanced) JavaScript questions, and their explanations",
-          "description": null,
-          "children": [
+            },
             {
               "node_type": "item",
+              "title": "Math, sciences, physics video courses",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75325926,
+                "language": null,
+                "last_commit": "2026-06-17T13:08:00Z",
+                "owner": "Developer-Y",
+                "repo": "math-science-video-lectures",
+                "stars": 4131
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Studies"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Game design",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "AwesomeJetLight",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 102740660,
+                    "language": "HTML",
+                    "last_commit": "2022-08-30T09:18:26Z",
+                    "owner": "JetLightStudio",
+                    "repo": "AwesomeJetLight",
+                    "stars": 11
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Curriculum Vitae Template",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CV Template with Latex",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 91160134,
+                    "language": "TeX",
+                    "last_commit": "2018-06-23T08:34:12Z",
+                    "owner": "saidziani",
+                    "repo": "CV-Template",
+                    "stars": 10
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
               "title": "A long list of (advanced) JavaScript questions, and their explanations",
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": null,
-                "last_commit": "2024-08-04T16:08:40Z",
-                "owner": "lydiahallie",
-                "repo": "javascript-questions",
-                "stars": 65317
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings.",
-          "description": null,
-          "children": [
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "A long list of (advanced) JavaScript questions, and their explanations",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 191529732,
+                    "language": null,
+                    "last_commit": "2024-08-04T16:08:40Z",
+                    "owner": "lydiahallie",
+                    "repo": "javascript-questions",
+                    "stars": 65316
+                  }
+                }
+              ]
+            },
             {
-              "node_type": "item",
-              "title": "Algorithms and data structures implemented in JavaScript",
+              "node_type": "group",
+              "title": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings.",
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2026-07-26T02:43:08Z",
-                "owner": "trekhleb",
-                "repo": "javascript-algorithms",
-                "stars": 196518
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-          "description": null,
-          "children": [
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Algorithms and data structures implemented in JavaScript",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 126577260,
+                    "language": "JavaScript",
+                    "last_commit": "2026-07-26T02:43:08Z",
+                    "owner": "trekhleb",
+                    "repo": "javascript-algorithms",
+                    "stars": 196522
+                  }
+                }
+              ]
+            },
             {
-              "node_type": "item",
-              "title": "System Design Primer",
+              "node_type": "group",
+              "title": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-03-20T01:52:19Z",
-                "owner": "donnemartin",
-                "repo": "system-design-primer",
-                "stars": 364669
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "GitHub Repository where we can play Chess. It depicts an awesome use of GitHub Actions.",
-          "description": null,
-          "children": [
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "System Design Primer",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 83222441,
+                    "language": "Python",
+                    "last_commit": "2026-03-20T01:52:19Z",
+                    "owner": "donnemartin",
+                    "repo": "system-design-primer",
+                    "stars": 364836
+                  }
+                }
+              ]
+            },
             {
-              "node_type": "item",
-              "title": "Play Chess",
+              "node_type": "group",
+              "title": "GitHub Repository where we can play Chess. It depicts an awesome use of GitHub Actions.",
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": null,
-                "last_commit": "2026-08-18T18:23:52Z",
-                "owner": "timburgan",
-                "repo": "timburgan",
-                "stars": 1170
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "A GitHub Repository where we can go through a whole Computer Science Degree.",
-          "description": null,
-          "children": [
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Play Chess",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 272328835,
+                    "language": null,
+                    "last_commit": "2026-08-19T07:53:34Z",
+                    "owner": "timburgan",
+                    "repo": "timburgan",
+                    "stars": 1170
+                  }
+                }
+              ]
+            },
             {
-              "node_type": "item",
-              "title": "Open Source Computer Science",
+              "node_type": "group",
+              "title": "A GitHub Repository where we can go through a whole Computer Science Degree.",
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": null,
-                "last_commit": "2025-06-11T17:09:07Z",
-                "owner": "ForrestKnight",
-                "repo": "open-source-cs",
-                "stars": 23704
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "An awesome Data Science repository to learn and apply for real world problems.",
-          "description": null,
-          "children": [
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Open Source Computer Science",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 166504843,
+                    "language": null,
+                    "last_commit": "2025-06-11T17:09:07Z",
+                    "owner": "ForrestKnight",
+                    "repo": "open-source-cs",
+                    "stars": 23706
+                  }
+                }
+              ]
+            },
             {
-              "node_type": "item",
-              "title": "Awesome Data Science",
+              "node_type": "group",
+              "title": "An awesome Data Science repository to learn and apply for real world problems.",
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": null,
-                "last_commit": "2026-08-18T10:27:04Z",
-                "owner": "academic",
-                "repo": "awesome-datascience",
-                "stars": 29837
-              }
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Awesome Data Science",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21515044,
+                    "language": null,
+                    "last_commit": "2026-08-18T10:27:04Z",
+                    "owner": "academic",
+                    "repo": "awesome-datascience",
+                    "stars": 29839
+                  }
+                }
+              ]
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Awesome repositories"
         }
       ],
-      "title": "Awesome repositories"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tools and Apps"
+      "title": "Chosen Websites"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:00:09.789Z",
+    "last_updated": "2026-08-19T12:49:44.535Z",
     "original_repository": "open-minds/awesome-openminds-team",
+    "original_repository_id": 69763921,
     "original_repository_sha": "448f243b414cbef34a6567b4a1487449163955fb",
     "enhanced_repository": "enhansome/enhansome-openminds-team",
     "enhanced_repository_description": null,
