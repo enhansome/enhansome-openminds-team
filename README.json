@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-14T05:38:25Z",
                 "owner": "ossu",
                 "repo": "computer-science",
-                "stars": 208175
+                "stars": 208248
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-07T17:42:10Z",
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83126
+                "stars": 83134
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2023-05-04T12:49:34Z",
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70524
+                "stars": 70548
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-06-17T13:08:00Z",
                 "owner": "Developer-Y",
                 "repo": "math-science-video-lectures",
-                "stars": 4132
+                "stars": 4134
               }
             }
           ],
@@ -133,7 +133,7 @@
                     "last_commit": "2024-08-04T16:08:40Z",
                     "owner": "lydiahallie",
                     "repo": "javascript-questions",
-                    "stars": 65316
+                    "stars": 65317
                   }
                 }
               ]
@@ -155,7 +155,7 @@
                     "last_commit": "2026-07-26T02:43:08Z",
                     "owner": "trekhleb",
                     "repo": "javascript-algorithms",
-                    "stars": 196530
+                    "stars": 196521
                   }
                 }
               ]
@@ -177,7 +177,7 @@
                     "last_commit": "2026-03-20T01:52:19Z",
                     "owner": "donnemartin",
                     "repo": "system-design-primer",
-                    "stars": 364908
+                    "stars": 365097
                   }
                 }
               ]
@@ -196,7 +196,7 @@
                     "archived": false,
                     "id": 272328835,
                     "language": null,
-                    "last_commit": "2026-08-19T18:28:42Z",
+                    "last_commit": "2026-08-20T19:21:52Z",
                     "owner": "timburgan",
                     "repo": "timburgan",
                     "stars": 1170
@@ -243,7 +243,7 @@
                     "last_commit": "2026-08-18T10:27:04Z",
                     "owner": "academic",
                     "repo": "awesome-datascience",
-                    "stars": 29842
+                    "stars": 29847
                   }
                 }
               ]
@@ -258,7 +258,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:02:21.369Z",
+    "last_updated": "2026-08-20T21:03:37.500Z",
     "original_repository": "open-minds/awesome-openminds-team",
     "original_repository_id": 69763921,
     "original_repository_sha": "448f243b414cbef34a6567b4a1487449163955fb",
