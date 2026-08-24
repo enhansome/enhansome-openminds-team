@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-14T05:38:25Z",
                 "owner": "ossu",
                 "repo": "computer-science",
-                "stars": 208365
+                "stars": 208380
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-07T17:42:10Z",
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83159
+                "stars": 83168
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2023-05-04T12:49:34Z",
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70622
+                "stars": 70634
               }
             },
             {
@@ -69,6 +69,28 @@
           "description": null,
           "node_type": "group",
           "title": "Studies"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Free programming books",
+              "description": "Freely available programming books",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13491895,
+                "language": "Python",
+                "last_commit": "2026-08-18T14:16:15Z",
+                "owner": "EbookFoundation",
+                "repo": "free-programming-books",
+                "stars": 395136
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "eBooks"
         },
         {
           "children": [
@@ -155,7 +177,7 @@
                     "last_commit": "2026-07-26T02:43:08Z",
                     "owner": "trekhleb",
                     "repo": "javascript-algorithms",
-                    "stars": 196543
+                    "stars": 196546
                   }
                 }
               ]
@@ -177,7 +199,7 @@
                     "last_commit": "2026-03-20T01:52:19Z",
                     "owner": "donnemartin",
                     "repo": "system-design-primer",
-                    "stars": 365623
+                    "stars": 365727
                   }
                 }
               ]
@@ -196,7 +218,7 @@
                     "archived": false,
                     "id": 272328835,
                     "language": null,
-                    "last_commit": "2026-08-23T15:10:24Z",
+                    "last_commit": "2026-08-24T14:28:36Z",
                     "owner": "timburgan",
                     "repo": "timburgan",
                     "stars": 1173
@@ -221,7 +243,7 @@
                     "last_commit": "2025-06-11T17:09:07Z",
                     "owner": "ForrestKnight",
                     "repo": "open-source-cs",
-                    "stars": 23716
+                    "stars": 23738
                   }
                 }
               ]
@@ -243,7 +265,7 @@
                     "last_commit": "2026-08-22T06:20:28Z",
                     "owner": "academic",
                     "repo": "awesome-datascience",
-                    "stars": 29856
+                    "stars": 29859
                   }
                 }
               ]
@@ -255,10 +277,67 @@
         }
       ],
       "title": "Chosen Websites"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "VSCodium",
+              "description": "Free/Libre Open Source Software Binaries of VSCode",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144590939,
+                "language": "Shell",
+                "last_commit": "2026-08-12T12:43:33Z",
+                "owner": "VSCodium",
+                "repo": "vscodium",
+                "stars": 32965
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Text editors"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "English",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Context Podcast",
+                  "description": "Podcast that discusses on various frameworks and tools available in Android Community",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 51116846,
+                    "language": null,
+                    "last_commit": "2019-12-28T13:03:18Z",
+                    "owner": "artem-zinnatullin",
+                    "repo": "TheContext-Podcast",
+                    "stars": 622
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Podcasts"
+        }
+      ],
+      "title": "Tools and Apps"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:58:43.719Z",
+    "last_updated": "2026-08-24T14:42:51.194Z",
     "original_repository": "open-minds/awesome-openminds-team",
     "original_repository_id": 69763921,
     "original_repository_sha": "448f243b414cbef34a6567b4a1487449163955fb",
