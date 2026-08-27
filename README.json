@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-14T05:38:25Z",
                 "owner": "ossu",
                 "repo": "computer-science",
-                "stars": 208438
+                "stars": 208452
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-26T13:55:35Z",
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83184
+                "stars": 83187
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2023-05-04T12:49:34Z",
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70678
+                "stars": 70691
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-18T14:16:15Z",
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395274
+                "stars": 395314
               }
             }
           ],
@@ -155,7 +155,7 @@
                     "last_commit": "2024-08-04T16:08:40Z",
                     "owner": "lydiahallie",
                     "repo": "javascript-questions",
-                    "stars": 65328
+                    "stars": 65327
                   }
                 }
               ]
@@ -177,7 +177,7 @@
                     "last_commit": "2026-07-26T02:43:08Z",
                     "owner": "trekhleb",
                     "repo": "javascript-algorithms",
-                    "stars": 196566
+                    "stars": 196567
                   }
                 }
               ]
@@ -199,7 +199,7 @@
                     "last_commit": "2026-03-20T01:52:19Z",
                     "owner": "donnemartin",
                     "repo": "system-design-primer",
-                    "stars": 366241
+                    "stars": 366324
                   }
                 }
               ]
@@ -218,7 +218,7 @@
                     "archived": false,
                     "id": 272328835,
                     "language": null,
-                    "last_commit": "2026-08-26T18:47:39Z",
+                    "last_commit": "2026-08-27T07:02:48Z",
                     "owner": "timburgan",
                     "repo": "timburgan",
                     "stars": 1173
@@ -243,7 +243,7 @@
                     "last_commit": "2025-06-11T17:09:07Z",
                     "owner": "ForrestKnight",
                     "repo": "open-source-cs",
-                    "stars": 23744
+                    "stars": 23745
                   }
                 }
               ]
@@ -265,7 +265,7 @@
                     "last_commit": "2026-08-26T17:06:22Z",
                     "owner": "academic",
                     "repo": "awesome-datascience",
-                    "stars": 29874
+                    "stars": 29876
                   }
                 }
               ]
@@ -292,10 +292,10 @@
                 "archived": false,
                 "id": 144590939,
                 "language": "Shell",
-                "last_commit": "2026-08-26T17:58:17Z",
+                "last_commit": "2026-08-27T09:17:14Z",
                 "owner": "VSCodium",
                 "repo": "vscodium",
-                "stars": 32990
+                "stars": 32996
               }
             }
           ],
@@ -337,9 +337,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:06:53.491Z",
-    "original_repository": "open-minds/awesome-openminds-team",
-    "original_repository_id": 69763921,
+    "last_updated": "2026-08-27T11:54:26.630Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 69763921,
+      "language": null,
+      "last_commit": "2021-10-31T13:46:16Z",
+      "owner": "open-minds",
+      "repo": "awesome-openminds-team",
+      "stars": 133
+    },
     "original_repository_sha": "448f243b414cbef34a6567b4a1487449163955fb",
     "enhanced_repository": "enhansome/enhansome-openminds-team",
     "enhanced_repository_description": null,
