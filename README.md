@@ -108,9 +108,9 @@ A collection of awesome useful and awesome links, resources and shiny things for
 
 ### Studies
 
-* [Path to self-taught education in computer science](https://github.com/open-source-society/computer-science) ⭐ 208,485 | 🐛 27 | 🌐 HTML | 📅 2026-07-14
-* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,196 | 🐛 2 | 📅 2026-08-26  List of Computer Science courses with video lectures
-* [Awesome CS courses](https://github.com/prakhar1989/awesome-courses) ⭐ 70,726 | 🐛 65 | 📅 2023-05-04
+* [Path to self-taught education in computer science](https://github.com/open-source-society/computer-science) ⭐ 208,491 | 🐛 27 | 🌐 HTML | 📅 2026-07-14
+* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,197 | 🐛 2 | 📅 2026-08-26  List of Computer Science courses with video lectures
+* [Awesome CS courses](https://github.com/prakhar1989/awesome-courses) ⭐ 70,730 | 🐛 65 | 📅 2023-05-04
 * [Math, sciences, physics video courses](https://github.com/Developer-Y/math-science-video-lectures) ⭐ 4,136 | 🐛 2 | 📅 2026-06-17
 * [Free computer sciences lecture courses](http://learnerstv.com/Free-Computer-Science-video-lecture-courses.htm)
 * [Google: Guide to technical development ](https://www.google.com/about/careers/students/guide-to-technical-development.html)
@@ -176,7 +176,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 
 ### eBooks
 
-* [Free programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 395,480 | 🐛 92 | 🌐 Python | 📅 2026-08-18 Freely available programming books
+* [Free programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 395,484 | 🐛 92 | 🌐 Python | 📅 2026-08-18 Freely available programming books
 * [it-ebooks](http://it-ebooks.info/)
 * [LibreBooks](http://librebooks.org/)
 * [ebook-dl](http://ebook-dl.com/)
@@ -335,13 +335,13 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
   * [Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,577 | 🐛 404 | 🌐 JavaScript | 📅 2026-07-26
 * Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-  * [System Design Primer](https://github.com/donnemartin/system-design-primer) ⭐ 366,596 | 🐛 613 | 🌐 Python | 📅 2026-03-20
+  * [System Design Primer](https://github.com/donnemartin/system-design-primer) ⭐ 366,605 | 🐛 613 | 🌐 Python | 📅 2026-03-20
 * GitHub Repository where we can play Chess. It depicts an awesome use of GitHub Actions.
   * [Play Chess](https://github.com/timburgan/timburgan) ⭐ 1,174 | 🐛 1 | 📅 2026-08-29
 * A GitHub Repository where we can go through a whole Computer Science Degree.
   * [Open Source Computer Science](https://github.com/ForrestKnight/open-source-cs) ⭐ 23,746 | 🐛 41 | 📅 2025-06-11
 * An awesome Data Science repository to learn and apply for real world problems.
-  * [Awesome Data Science](https://github.com/academic/awesome-datascience) ⭐ 29,886 | 🐛 8 | 📅 2026-08-27
+  * [Awesome Data Science](https://github.com/academic/awesome-datascience) ⭐ 29,887 | 🐛 8 | 📅 2026-08-27
 
 ## Tools and Apps
 
