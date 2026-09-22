@@ -21,7 +21,7 @@
                 "open_issues": 28,
                 "owner": "ossu",
                 "repo": "computer-science",
-                "stars": 209334,
+                "stars": 209377,
                 "topics": [
                   "awesome-list",
                   "computer-science",
@@ -44,10 +44,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-21T16:48:31Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83544,
+                "stars": 83552,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -87,7 +87,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71312,
+                "stars": 71341,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -141,11 +141,11 @@
                 "id": 13491895,
                 "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-09-15T15:54:40Z",
-                "open_issues": 82,
+                "last_commit": "2026-09-22T12:40:54Z",
+                "open_issues": 80,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 397376,
+                "stars": 397465,
                 "topics": [
                   "books",
                   "education",
@@ -278,7 +278,7 @@
                     "open_issues": 407,
                     "owner": "trekhleb",
                     "repo": "javascript-algorithms",
-                    "stars": 196789,
+                    "stars": 196797,
                     "topics": [
                       "algorithm",
                       "algorithms",
@@ -315,7 +315,7 @@
                     "open_issues": 615,
                     "owner": "donnemartin",
                     "repo": "system-design-primer",
-                    "stars": 371149,
+                    "stars": 371316,
                     "topics": [
                       "design",
                       "design-patterns",
@@ -353,11 +353,11 @@
                     "id": 272328835,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-09-21T23:01:25Z",
+                    "last_commit": "2026-09-22T23:02:09Z",
                     "open_issues": 7,
                     "owner": "timburgan",
                     "repo": "timburgan",
-                    "stars": 1180,
+                    "stars": 1181,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:28:45.465Z"
@@ -385,7 +385,7 @@
                     "open_issues": 41,
                     "owner": "ForrestKnight",
                     "repo": "open-source-cs",
-                    "stars": 23764,
+                    "stars": 23761,
                     "topics": [
                       "computer-science"
                     ]
@@ -415,7 +415,7 @@
                     "open_issues": 6,
                     "owner": "academic",
                     "repo": "awesome-datascience",
-                    "stars": 30044,
+                    "stars": 30055,
                     "topics": [
                       "analytics",
                       "awesome-list",
@@ -462,7 +462,7 @@
                 "open_issues": 148,
                 "owner": "VSCodium",
                 "repo": "vscodium",
-                "stars": 33331,
+                "stars": 33341,
                 "topics": [
                   "editor",
                   "floss",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T23:38:25.140Z",
+    "last_updated": "2026-09-22T23:16:12.941Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Repository for students, geeks, programmers, and designers",
