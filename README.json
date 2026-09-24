@@ -21,7 +21,7 @@
                 "open_issues": 28,
                 "owner": "ossu",
                 "repo": "computer-science",
-                "stars": 209407,
+                "stars": 209432,
                 "topics": [
                   "awesome-list",
                   "computer-science",
@@ -47,7 +47,7 @@
                 "open_issues": 5,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83549,
+                "stars": 83553,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -87,7 +87,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71355,
+                "stars": 71381,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -141,11 +141,11 @@
                 "id": 13491895,
                 "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-09-22T12:40:54Z",
-                "open_issues": 83,
+                "last_commit": "2026-09-24T12:26:41Z",
+                "open_issues": 80,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 397531,
+                "stars": 397592,
                 "topics": [
                   "books",
                   "education",
@@ -278,7 +278,7 @@
                     "open_issues": 407,
                     "owner": "trekhleb",
                     "repo": "javascript-algorithms",
-                    "stars": 196797,
+                    "stars": 196795,
                     "topics": [
                       "algorithm",
                       "algorithms",
@@ -312,10 +312,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-15T01:10:09Z",
-                    "open_issues": 615,
+                    "open_issues": 614,
                     "owner": "donnemartin",
                     "repo": "system-design-primer",
-                    "stars": 371465,
+                    "stars": 371599,
                     "topics": [
                       "design",
                       "design-patterns",
@@ -353,7 +353,7 @@
                     "id": 272328835,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-09-23T22:31:32Z",
+                    "last_commit": "2026-09-24T21:18:52Z",
                     "open_issues": 7,
                     "owner": "timburgan",
                     "repo": "timburgan",
@@ -411,11 +411,11 @@
                     "id": 21515044,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-09-23T21:20:45Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-09-24T13:21:26Z",
+                    "open_issues": 5,
                     "owner": "academic",
                     "repo": "awesome-datascience",
-                    "stars": 30057,
+                    "stars": 30059,
                     "topics": [
                       "analytics",
                       "awesome-list",
@@ -462,7 +462,7 @@
                 "open_issues": 151,
                 "owner": "VSCodium",
                 "repo": "vscodium",
-                "stars": 33354,
+                "stars": 33362,
                 "topics": [
                   "editor",
                   "floss",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T23:09:36.376Z",
+    "last_updated": "2026-09-24T23:27:40.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Repository for students, geeks, programmers, and designers",
