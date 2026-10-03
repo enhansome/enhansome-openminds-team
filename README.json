@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Path to self-taught education in computer science",
-              "description": null,
+              "description": "ossu/computer-science",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21,7 +21,7 @@
                 "open_issues": 28,
                 "owner": "ossu",
                 "repo": "computer-science",
-                "stars": 209697,
+                "stars": 209702,
                 "topics": [
                   "awesome-list",
                   "computer-science",
@@ -47,7 +47,7 @@
                 "open_issues": 4,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 83597,
+                "stars": 83600,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -74,7 +74,7 @@
             {
               "node_type": "item",
               "title": "Awesome CS courses",
-              "description": null,
+              "description": "prakhar1989/awesome-courses",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -87,7 +87,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71541,
+                "stars": 71549,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -100,7 +100,7 @@
             {
               "node_type": "item",
               "title": "Math, sciences, physics video courses",
-              "description": null,
+              "description": "Developer-Y/math-science-video-lectures",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -113,7 +113,7 @@
                 "open_issues": 2,
                 "owner": "Developer-Y",
                 "repo": "math-science-video-lectures",
-                "stars": 4162,
+                "stars": 4161,
                 "topics": [
                   "math",
                   "physics",
@@ -145,7 +145,7 @@
                 "open_issues": 85,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 398334,
+                "stars": 398352,
                 "topics": [
                   "books",
                   "education",
@@ -171,7 +171,7 @@
                 {
                   "node_type": "item",
                   "title": "AwesomeJetLight",
-                  "description": null,
+                  "description": "JetLightStudio/AwesomeJetLight",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -209,7 +209,7 @@
                 {
                   "node_type": "item",
                   "title": "CV Template with Latex",
-                  "description": null,
+                  "description": "saidziani/CV-Template",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -237,7 +237,7 @@
                 {
                   "node_type": "item",
                   "title": "A long list of (advanced) JavaScript questions, and their explanations",
-                  "description": null,
+                  "description": "lydiahallie/javascript-questions",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -250,7 +250,7 @@
                     "open_issues": 53,
                     "owner": "lydiahallie",
                     "repo": "javascript-questions",
-                    "stars": 65304,
+                    "stars": 65303,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:28:45.465Z"
@@ -265,7 +265,7 @@
                 {
                   "node_type": "item",
                   "title": "Algorithms and data structures implemented in JavaScript",
-                  "description": null,
+                  "description": "trekhleb/javascript-algorithms",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -278,7 +278,7 @@
                     "open_issues": 408,
                     "owner": "trekhleb",
                     "repo": "javascript-algorithms",
-                    "stars": 196866,
+                    "stars": 196867,
                     "topics": [
                       "algorithm",
                       "algorithms",
@@ -302,7 +302,7 @@
                 {
                   "node_type": "item",
                   "title": "System Design Primer",
-                  "description": null,
+                  "description": "donnemartin/system-design-primer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -315,7 +315,7 @@
                     "open_issues": 623,
                     "owner": "donnemartin",
                     "repo": "system-design-primer",
-                    "stars": 372963,
+                    "stars": 372979,
                     "topics": [
                       "design",
                       "design-patterns",
@@ -344,7 +344,7 @@
                 {
                   "node_type": "item",
                   "title": "Play Chess",
-                  "description": null,
+                  "description": "timburgan/timburgan",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -353,7 +353,7 @@
                     "id": 272328835,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-10-02T21:21:50Z",
+                    "last_commit": "2026-10-03T04:13:54Z",
                     "open_issues": 7,
                     "owner": "timburgan",
                     "repo": "timburgan",
@@ -372,7 +372,7 @@
                 {
                   "node_type": "item",
                   "title": "Open Source Computer Science",
-                  "description": null,
+                  "description": "ForrestKnight/open-source-cs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -402,7 +402,7 @@
                 {
                   "node_type": "item",
                   "title": "Awesome Data Science",
-                  "description": null,
+                  "description": "academic/awesome-datascience",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -415,7 +415,7 @@
                     "open_issues": 11,
                     "owner": "academic",
                     "repo": "awesome-datascience",
-                    "stars": 30102,
+                    "stars": 30103,
                     "topics": [
                       "analytics",
                       "awesome-list",
@@ -458,11 +458,11 @@
                 "id": 144590939,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-01T13:11:49Z",
-                "open_issues": 155,
+                "last_commit": "2026-10-03T04:05:52Z",
+                "open_issues": 156,
                 "owner": "VSCodium",
                 "repo": "vscodium",
-                "stars": 33489,
+                "stars": 33490,
                 "topics": [
                   "editor",
                   "floss",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:59:41.962Z",
+    "last_updated": "2026-10-03T05:03:03.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Repository for students, geeks, programmers, and designers",
