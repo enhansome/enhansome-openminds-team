@@ -108,10 +108,10 @@ A collection of awesome useful and awesome links, resources and shiny things for
 
 ### Studies
 
-* [Path to self-taught education in computer science](https://github.com/open-source-society/computer-science) ⭐ 210,505 | 🐛 29 | 🌐 HTML | 📅 2026-07-14
-* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 84,260 | 🐛 6 | 📅 2026-10-27  List of Computer Science courses with video lectures
-* [Awesome CS courses](https://github.com/prakhar1989/awesome-courses) ⭐ 72,404 | 🐛 66 | 📅 2023-05-04
-* [Math, sciences, physics video courses](https://github.com/Developer-Y/math-science-video-lectures) ⭐ 4,180 | 🐛 3 | 📅 2026-10-22
+* [Path to self-taught education in computer science](https://github.com/open-source-society/computer-science) ⭐ 210,549 | 🐛 29 | 🌐 HTML | 📅 2026-07-14
+* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 84,357 | 🐛 6 | 📅 2026-10-27  List of Computer Science courses with video lectures
+* [Awesome CS courses](https://github.com/prakhar1989/awesome-courses) ⭐ 72,428 | 🐛 66 | 📅 2023-05-04
+* [Math, sciences, physics video courses](https://github.com/Developer-Y/math-science-video-lectures) ⭐ 4,181 | 🐛 3 | 📅 2026-10-22
 * [Free computer sciences lecture courses](http://learnerstv.com/Free-Computer-Science-video-lecture-courses.htm)
 * [Google: Guide to technical development ](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [MiftaSintaha's YouTube channel](https://www.youtube.com/channel/UC6-g6xhqyX14ENhZBC2fznw) : Computer sciences video tutorials
@@ -176,7 +176,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 
 ### eBooks
 
-* [Free programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 400,489 | 🐛 89 | 🌐 Python | 📅 2026-10-27 Freely available programming books
+* [Free programming books](https://github.com/EbookFoundation/free-programming-books) ⭐ 400,553 | 🐛 90 | 🌐 Python | 📅 2026-10-27 Freely available programming books
 * [it-ebooks](http://it-ebooks.info/)
 * [LibreBooks](http://librebooks.org/)
 * [ebook-dl](http://ebook-dl.com/)
@@ -331,17 +331,17 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * Curriculum Vitae Template
   * [CV Template with Latex](https://github.com/saidziani/CV-Template) ⭐ 10 | 🐛 0 | 🌐 TeX | 📅 2018-06-23
 * A long list of (advanced) JavaScript questions, and their explanations
-  * [A long list of (advanced) JavaScript questions, and their explanations](https://github.com/lydiahallie/javascript-questions) ⭐ 65,269 | 🐛 54 | 📅 2024-08-04
+  * [A long list of (advanced) JavaScript questions, and their explanations](https://github.com/lydiahallie/javascript-questions) ⭐ 65,266 | 🐛 54 | 📅 2024-08-04
 * Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
-  * [Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,709 | 🐛 434 | 🌐 JavaScript | 📅 2026-07-26
+  * [Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,714 | 🐛 434 | 🌐 JavaScript | 📅 2026-07-26
 * Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-  * [System Design Primer](https://github.com/donnemartin/system-design-primer) ⭐ 376,120 | 🐛 633 | 🌐 Python | 📅 2026-09-15
+  * [System Design Primer](https://github.com/donnemartin/system-design-primer) ⭐ 376,253 | 🐛 634 | 🌐 Python | 📅 2026-09-15
 * GitHub Repository where we can play Chess. It depicts an awesome use of GitHub Actions.
-  * [Play Chess](https://github.com/timburgan/timburgan) ⭐ 1,187 | 🐛 8 | 📅 2026-10-29
+  * [Play Chess](https://github.com/timburgan/timburgan) ⭐ 1,187 | 🐛 8 | 📅 2026-10-30
 * A GitHub Repository where we can go through a whole Computer Science Degree.
-  * [Open Source Computer Science](https://github.com/ForrestKnight/open-source-cs) ⭐ 23,775 | 🐛 41 | 📅 2025-06-11
+  * [Open Source Computer Science](https://github.com/ForrestKnight/open-source-cs) ⭐ 23,776 | 🐛 41 | 📅 2025-06-11
 * An awesome Data Science repository to learn and apply for real world problems.
-  * [Awesome Data Science](https://github.com/academic/awesome-datascience) ⭐ 30,248 | 🐛 9 | 📅 2026-10-27
+  * [Awesome Data Science](https://github.com/academic/awesome-datascience) ⭐ 30,249 | 🐛 9 | 📅 2026-10-27
 
 ## Tools and Apps
 
@@ -362,7 +362,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 
 ### Text editors
 
-* [VSCodium](https://github.com/VSCodium/vscodium) ⭐ 33,867 | 🐛 149 | 🌐 Shell | 📅 2026-10-28 Free/Libre Open Source Software Binaries of VSCode
+* [VSCodium](https://github.com/VSCodium/vscodium) ⭐ 33,888 | 🐛 152 | 🌐 Shell | 📅 2026-10-30 Free/Libre Open Source Software Binaries of VSCode
 * [Atom](http://atom.io/)
 * [Brackets](http://brackets.io/)
 * [Sublime Text](https://www.sublimetext.com/)
@@ -451,4 +451,4 @@ A collection of awesome useful and awesome links, resources and shiny things for
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
