@@ -21,7 +21,7 @@
                 "open_issues": 29,
                 "owner": "ossu",
                 "repo": "computer-science",
-                "stars": 211085,
+                "stars": 211015,
                 "topics": [
                   "awesome-list",
                   "computer-science",
@@ -44,10 +44,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-11-10T20:56:44Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "Developer-Y",
                 "repo": "cs-video-courses",
-                "stars": 84805,
+                "stars": 84822,
                 "topics": [
                   "algorithms",
                   "bioinformatics",
@@ -87,7 +87,7 @@
                 "open_issues": 66,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 72749,
+                "stars": 72779,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -113,7 +113,7 @@
                 "open_issues": 3,
                 "owner": "Developer-Y",
                 "repo": "math-science-video-lectures",
-                "stars": 4188,
+                "stars": 4189,
                 "topics": [
                   "math",
                   "physics",
@@ -142,10 +142,10 @@
                 "language": "Python",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-11-07T19:10:09Z",
-                "open_issues": 98,
+                "open_issues": 100,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 401465,
+                "stars": 401426,
                 "topics": [
                   "books",
                   "education",
@@ -278,7 +278,7 @@
                     "open_issues": 438,
                     "owner": "trekhleb",
                     "repo": "javascript-algorithms",
-                    "stars": 196728,
+                    "stars": 196729,
                     "topics": [
                       "algorithm",
                       "algorithms",
@@ -312,10 +312,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-15T01:10:09Z",
-                    "open_issues": 646,
+                    "open_issues": 647,
                     "owner": "donnemartin",
                     "repo": "system-design-primer",
-                    "stars": 377588,
+                    "stars": 377616,
                     "topics": [
                       "design",
                       "design-patterns",
@@ -353,11 +353,11 @@
                     "id": 272328835,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-11-10T23:37:57Z",
+                    "last_commit": "2026-11-12T01:52:16Z",
                     "open_issues": 8,
                     "owner": "timburgan",
                     "repo": "timburgan",
-                    "stars": 1189,
+                    "stars": 1191,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:28:45.465Z"
@@ -415,7 +415,7 @@
                     "open_issues": 1,
                     "owner": "academic",
                     "repo": "awesome-datascience",
-                    "stars": 30316,
+                    "stars": 30318,
                     "topics": [
                       "analytics",
                       "awesome-list",
@@ -462,7 +462,7 @@
                 "open_issues": 153,
                 "owner": "VSCodium",
                 "repo": "vscodium",
-                "stars": 34045,
+                "stars": 34064,
                 "topics": [
                   "editor",
                   "floss",
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T00:53:55.795Z",
+    "last_updated": "2026-11-12T02:00:02.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Repository for students, geeks, programmers, and designers",
